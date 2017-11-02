@@ -10,3 +10,4 @@ $(document).ready(function(){
     pauseOnFocus: false,
     pauseOnHover: false
   });
+});
